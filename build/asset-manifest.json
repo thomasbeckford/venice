@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc55eabf.chunk.css",
+    "main.css": "/static/css/main.83e76989.chunk.css",
     "main.js": "/static/js/main.6bc67c82.chunk.js",
     "main.js.map": "/static/js/main.6bc67c82.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8f85229.js",
@@ -9,10 +9,10 @@
     "static/js/2.607da34d.chunk.js": "/static/js/2.607da34d.chunk.js",
     "static/js/2.607da34d.chunk.js.map": "/static/js/2.607da34d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95f38cc50228185a7e36f3efcec1c305.js": "/precache-manifest.95f38cc50228185a7e36f3efcec1c305.js",
+    "precache-manifest.ceb70cfe8c38cbe9d960e3215666f5b5.js": "/precache-manifest.ceb70cfe8c38cbe9d960e3215666f5b5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.cc55eabf.chunk.css.map": "/static/css/main.cc55eabf.chunk.css.map",
+    "static/css/main.83e76989.chunk.css.map": "/static/css/main.83e76989.chunk.css.map",
     "static/media/ApplicationformVCC_Sept_.docx": "/static/media/ApplicationformVCC_Sept_.aafb5615.docx",
     "static/media/Julia.jpg": "/static/media/Julia.b64453dd.jpg",
     "static/media/Miguel.jpg": "/static/media/Miguel.62936477.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.c8f85229.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.607da34d.chunk.js",
-    "static/css/main.cc55eabf.chunk.css",
+    "static/css/main.83e76989.chunk.css",
     "static/js/main.6bc67c82.chunk.js"
   ]
 }
